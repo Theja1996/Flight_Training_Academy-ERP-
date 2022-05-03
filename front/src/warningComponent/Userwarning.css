@@ -1,0 +1,11 @@
+.title-card {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+.waring-table {
+    margin-top: 50px;
+}

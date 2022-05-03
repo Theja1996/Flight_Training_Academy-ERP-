@@ -1,0 +1,149 @@
+[{
+        "aircraft": {
+            "aircraftname": "8Q-GAA",
+            "aircrafttype": "C150",
+            "destination": "VRMG"
+        },
+        "warning": 5,
+        "lastflight": {
+            "lastflightdate": "02.09.2020",
+            "lastflighttime1": "0:08",
+            "lastflighttime2": "0.30"
+        },
+        "current": {
+            "currentdate": "09.09.2020",
+            "currenttime1": "1668:35",
+            "currenttime2": "1733.40"
+        },
+        "nextservice": {
+            "nextservicedate": "20.09.2020",
+            "nextservicetime1": "",
+            "nextservicetime2": "2404.40"
+        },
+        "servicedue": {
+            "serviceduedays": "-725 days",
+            "serviceduetime1": "",
+            "serviceduetime2": "671.00 hours"
+        },
+        "remarks": 0
+    },
+
+    {
+        "aircraft": {
+            "aircraftname": "8Q-GAB",
+            "aircrafttype": "C150",
+            "destination": "VRMG"
+        },
+        "warning": 2,
+        "lastflight": {
+            "lastflightdate": "12.17.2019",
+            "lastflighttime1": "0:02",
+            "lastflighttime2": "0.20"
+        },
+        "current": {
+            "currentdate": "10.09.2020",
+            "currenttime1": "1405:55",
+            "currenttime2": "3847.00"
+        },
+        "nextservice": {
+            "nextservicedate": "14.11.2018",
+            "nextservicetime1": "",
+            "nextservicetime2": "2490.60"
+        },
+        "servicedue": {
+            "serviceduedays": "-666 days",
+            "serviceduetime1": "",
+            "serviceduetime2": "-1356.40 hours"
+        },
+        "remarks": 0
+    },
+
+    {
+        "aircraft": {
+            "aircraftname": "8Q-GAE",
+            "aircrafttype": "C150",
+            "destination": "VRMG"
+        },
+        "warning": 2,
+        "lastflight": {
+            "lastflightdate": "30.01.2020",
+            "lastflighttime1": "",
+            "lastflighttime2": "0.30"
+        },
+        "current": {
+            "currentdate": "10.09.2020",
+            "currenttime1": "1652:03",
+            "currenttime2": "7059.80"
+        },
+        "nextservice": {
+            "nextservicedate": "21.09.2018",
+            "nextservicetime1": "",
+            "nextservicetime2": "5309.70"
+        },
+        "servicedue": {
+            "serviceduedays": "-720 days",
+            "serviceduetime1": "",
+            "serviceduetime2": "-1750.10 hours"
+        },
+        "remarks": 0
+    },
+
+    {
+        "aircraft": {
+            "aircraftname": "8Q-GAF",
+            "aircrafttype": "C150",
+            "destination": "VRMG"
+        },
+        "warning": 1,
+        "lastflight": {
+            "lastflightdate": "10.09.2020",
+            "lastflighttime1": "0:32",
+            "lastflighttime2": "0.70"
+        },
+        "current": {
+            "currentdate": "10.09.2020",
+            "currenttime1": "1562:25",
+            "currenttime2": "5306.30"
+        },
+        "nextservice": {
+            "nextservicedate": "10.10.2018",
+            "nextservicetime1": "",
+            "nextservicetime2": "3683.60"
+        },
+        "servicedue": {
+            "serviceduedays": "-701 days",
+            "serviceduetime1": "",
+            "serviceduetime2": "-1622.70 hours"
+        },
+        "remarks": 0
+    },
+    {
+        "aircraft": {
+            "aircraftname": "8Q-GAH",
+            "aircrafttype": "C150",
+            "destination": "VRMG"
+        },
+        "warning": 2,
+        "lastflight": {
+            "lastflightdate": "10.09.2020",
+            "lastflighttime1": "0:56",
+            "lastflighttime2": "1.10"
+        },
+        "current": {
+            "currentdate": "10.09.2020",
+            "currenttime1": "1877:04",
+            "currenttime2": "3953.90"
+        },
+        "nextservice": {
+            "nextservicedate": "18.10.2018",
+            "nextservicetime1": "",
+            "nextservicetime2": "2777.50"
+        },
+        "servicedue": {
+            "serviceduedays": "-693 days",
+            "serviceduetime1": "",
+            "serviceduetime2": "-1176.40 hours"
+        },
+        "remarks": 0
+    }
+]

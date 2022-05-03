@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flightlogger-erp-system",
+  "private_key_id": "21ed863e5aaf460baf7dfd32e3a2b7b129d81ab7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSCXYZ2eO+tiGr\nkmKsz0MTg2LDYhXw84E7T+t9h6Y1xjJpO5q1uZYdQbxmZigT1bvSc0Ng4E0syWLf\nwmoRKRWM0yz47q/UaIytoHMp9frXSs1cHP+LV7SsGtYQu/eJak4lxrANyotH4CDK\nFzTFvfVkot9wdPnecZlDUtDPTWEFwTh61jKN4snDEg79S7S28jOVcXrugUujsPHv\nGc3JVgyw+a0MuG3ifTPYmlJk0AQbD1HvtZQQdrHkm7iSRCxctO1CRDIdpcu65Rff\n+IhYJPiLz/GuOVMx+zIl866BhbnbOZsDWg1/g9qRCCaXnzI4QqJioIQVlgCtdZEW\nXLUZrf0bAgMBAAECggEACnrRVdOUC1iInAZaPGp3NsxD5x9/0ZW33WjDznNQkyVQ\n8spLNOVHh3vzKCoGkD3TR6vr1uThxOgCx2ntMKQRHtT8sjR2u7hw9/i+qvEy+gYt\nLIIMOJSnq34VhIfooJzXVNCoS6UQT60ezUHTEKmsFXe2rxxF3heq1vD3eRjlcIMs\nXgCtRFdy6PSOQu0KiSX+/CwNwzgMAh7/oWBe+t04f33fnmbGVrwXIfukXE3YHufG\n4qNI2rRPhxoJ4uf5Y0lWEyzxiqjMLfX0tMkaLkF+PcW6XfQmJ+w65IK8GSsfi2W4\nDBZGtyNFzjKot9E70hQkY5NhC0jYU2zluF2I4bXXcQKBgQDMhRN6Wcc2dQ6yxk2Y\nonbKJMbYR93SHGLVYvrG8RQ0SGmR/UdIihlcLCkXWfZNIz90H97Re9cwsp5N9Zgi\nNdMRMUH5wcgQmBY2wmVHEswDKdCSWyB50qd433xDaC9kJ4/NWlGJZ++PJl0yJ5vJ\nY6x9clxcUbs+1D/rl3jibmh2SQKBgQC2y9g0vvuODqCbOO+NBNSs37VcvmHC5UG2\n2G/JUoDp856wFXZwpz2VQsyo8jxFN0ltcFqEM1d6CsRe912V0Es5EK5akIoFc1yy\nQzL2100Qo7NEV83/TvndRRJNcCV4ITkoFaojqwozRu8qFTicTq65Azi+uh3y/LAd\nEkgTYH7IQwKBgQCEvocy7Zygmv+sR4vL2v8xGwe5D4RJQMVhbPoKMCWF/c4PxI4E\n5iWprrwI/QohbRRdYeY0n6W/ZN/dB9/zrG3PheIlooIhSyV361ri869ZCkXnCKCe\nkXzDtoKoGbJQ1mC+z7WGcuCJUERDLnQuFbS6Q4TxItde41KNrmX2yeShiQKBgGMy\nA0W8Te4s6eLR5szzziVx0I1fktWcayi6Ew+BAgvy9C5Bt2AyoSyab01PBn3ZHrOQ\nwM30voevyBhwzAw8WFXDQ5pJzVxf2fGynblt5Jge/W0c6OCfDuCQVvpG3U5vWQDz\noLxyWLqyx55inbHU0OP9Z5G4lgACN9/Ox+Yb+zDZAoGBAMdUHGauuux8ZGyGkarK\nq6xCCv2pyWWDiJjVqk/5L1wrT5esBHOwvQCqYol04GgM683LVZUPnlxSg5H+vB0r\nALhtwlDLK314+W6wv1OmmXCKtXtbLPO4AQlFWh7F1ccDJlWk7VmUy0Nt+Fs1PvWY\nZxjZ0ByiIn04cjEUZ9XWiTJJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "flightlogger-17@flightlogger-erp-system.iam.gserviceaccount.com",
+  "client_id": "111723059328714284179",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flightlogger-17%40flightlogger-erp-system.iam.gserviceaccount.com"
+}

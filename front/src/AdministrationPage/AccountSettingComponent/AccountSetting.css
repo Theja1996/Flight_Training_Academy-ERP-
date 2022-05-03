@@ -1,0 +1,26 @@
+ .site-collapse-custom-panel {
+     background: #f7f7f7;
+     border-radius: 2px;
+     margin-bottom: 24px;
+     border: 0px;
+     display: block;
+ }
+ 
+ .collapseName {
+     display: flex;
+ }
+ 
+ .a-ref-color:hover {
+     color: gray;
+     text-decoration: underline
+ }
+ 
+ .upload-list-inline .ant-upload-list-item {
+     float: left;
+     width: 200px;
+     margin-right: 8px;
+ }
+ 
+ .upload-list-inline [class*='-upload-list-rtl'] .ant-upload-list-item {
+     float: right;
+ }

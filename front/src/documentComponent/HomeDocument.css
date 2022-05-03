@@ -1,0 +1,185 @@
+.header-head {
+    display: grid;
+    gap: 20px;
+}
+
+.left {
+    grid-row: 1;
+    grid-column: 1/2;
+}
+
+.center {
+    display: flex;
+    grid-row: 1;
+    grid-column: 2/3;
+}
+
+.right {
+    grid-row: 1;
+    grid-column: 3/4;
+}
+
+.center-contant {
+    display: flex;
+    gap: 5px;
+}
+
+.table1 {
+    grid-row: 2;
+    grid-column: 2/3;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #444;
+    text-align: left;
+    border: 1px #ddd solid;
+    border-top: 1px #bbb solid;
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+}
+
+tr {
+    text-align: start;
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td {
+    display: table-row;
+    vertical-align: inherit;
+    border: 1px #ccc solid;
+    display: table-cell;
+}
+
+td,
+th {
+    padding: 7px 7px;
+    border: 1px #ccc solid;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+table.dataTable thead .sorting {
+    background: url(https://d308f3rtp9iyib.cloudfront.net/assets/dataTables/sort_both-624f0a4….png) no-repeat center right;
+}
+
+tr.odd td {
+    background: #fff;
+    border-bottom: 1px #bbd5ed solid;
+}
+
+.fad {
+    position: relative;
+    font-family: "Font Awesome 5 Duotone";
+    font-weight: 900;
+}
+
+
+/* .fa-spin {
+    -webkit-animation: fa-spin 2s linear infinite;
+    animation: fa-spin 2s linear infinite;
+} */
+
+.sr-only {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.wrap-icon,
+body.document_folders .wrap-icon {
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 8px;
+    width: 30px;
+}
+
+.fa-folder-open,
+body.documents .fa-file-alt,
+body.document_folders .fa-folder-open,
+body.document_folders .fa-file-alt {
+    font-size: 28px;
+    color: #3683c8;
+}
+
+.fa-ellipsis-v,
+body.document_folders .fa-ellipsis-v {
+    width: 24px;
+}
+
+.dropdown-menu.pull-right {
+    right: 0;
+    left: auto;
+}
+
+.pull-right {
+    float: right;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 4px 0;
+    margin: 1px 0 0;
+    list-style: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    *border-right-width: 2px;
+    *border-bottom-width: 2px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 3px 15px;
+    clear: both;
+    font-weight: normal;
+    line-height: 18px;
+    color: #333;
+    white-space: nowrap;
+}
+
+.dropdown-menu .fas,
+body.documents .dropdown-menu .fal,
+body.documents .dropdown-menu .fab {
+    height: 15px;
+    margin-right: 2px;
+    text-align: center;
+    width: 15px;
+}
+
+tr.even td {
+    background: #ecf6fc;
+    border-bottom: 1px #bbd5ed solid;
+}
+
+.fa-file-alt {
+    font-size: 28px;
+    color: #3683c8;
+}

@@ -1,0 +1,28 @@
+.income-body {
+    gap: 1vh;
+}
+
+.date-report {
+    margin-top: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.record-table {
+    overflow: scroll;
+    display: flex;
+    border-style: outset;
+    background-color: rgb(232, 232, 241);
+}
+
+.search-record {
+    margin-top: 3vh;
+}
+
+@media screen and (max-width: 900px) {
+    .date-report {
+        display: flex;
+        flex-direction: column;
+        gap: 5vh;
+    }
+}

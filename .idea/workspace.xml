@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cff8ea41-1c7f-4315-b994-b436828ba413" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/front/src/StudentsComponent/Students.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/APIUtiles/APIUtils.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/AdministrationPage/AccountSettingComponent/BookingFilterComponent/BokkingFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/AdministrationPage/AccountSettingComponent/BookingFilterComponent/BokkingFilter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateAdministratorPage/CreateAdministrator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateAdministratorPage/CreateAdministrator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateAdministratorPage/CreateAdministrator_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateAdministratorPage/CreateAdministrator_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateBookingComponent/CreateBookingComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateBookingComponent/CreateBookingComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateClassPage/CreateClass.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateClassPage/CreateClass.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateCrewPage/CreateCrew.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateCrewPage/CreateCrew.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateCrewPage/CreateCrew_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateCrewPage/CreateCrew_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateGuestPage/CreateGuest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateGuestPage/CreateGuest.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateGuestPage/CreateGuest_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateGuestPage/CreateGuest_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateInstructorPage/CreateInstructor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateInstructorPage/CreateInstructor.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateInstructorPage/CreateInstructor_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateInstructorPage/CreateInstructor_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateRenterPage/CreateRenter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateRenterPage/CreateRenter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateStaffPage/CreateStaff.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateStaffPage/CreateStaff.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateStaffPage/CreateStaff_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateStaffPage/CreateStaff_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/CreateStudentPage/CreateStudent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/CreateStudentPage/CreateStudent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/ReportsComponent/AircraftreportComponent/FlightLoggerAnaliticsComponent/FlightLoggerAnalitics.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/ReportsComponent/AircraftreportComponent/FlightLoggerAnaliticsComponent/FlightLoggerAnalitics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/StudentsComponent/Student.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/StudentsComponent/Student_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/StudentsComponent/Student_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/StudentsComponent/Students1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/StudentsComponent/Students1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/StudentsComponent/StudentsG.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/StudentsComponent/StudentsG.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/administratorComponent/Administrator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/administratorComponent/Administrator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/classComponent/Userclass.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/classComponent/Userclass.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/classComponent/userClass_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/classComponent/userClass_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/EditUser.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/EditUser.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/components/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/constants/constants.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/constants/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/crewComponent/Crew.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/crewComponent/Crew.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/guestComponent/Guest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/guestComponent/Guest.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/instructorComponents/Instructor.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/instructorComponents/Instructor.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/instructorComponents/instructor_BACKUP.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/instructorComponents/instructor_BACKUP.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/renderComponent/Render.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/renderComponent/Render.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/staffComponent/Staff.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/staffComponent/Staff.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/src/utils/APIUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/src/utils/APIUtils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1psEL3jaLmAYIjfRPTwK2EcuCk0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cff8ea41-1c7f-4315-b994-b436828ba413" name="Default Changelist" comment="" />
+      <created>1615963351503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615963351503</updated>
+      <workItem from="1615963362668" duration="4803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

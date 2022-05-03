@@ -1,0 +1,9 @@
+.card {
+    background-color: rgb(209, 206, 206);
+    box-shadow: 5px 10px #888888;
+    color: grey;
+}
+
+.card-div {
+    background-color: rgb(209, 206, 206);
+}

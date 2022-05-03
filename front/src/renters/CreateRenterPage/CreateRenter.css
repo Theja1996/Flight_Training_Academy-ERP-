@@ -1,0 +1,57 @@
+.userform {
+    grid-row: 1;
+    grid-column: 3;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.topPosition {
+    position: fixed;
+    z-index: 50;
+}
+
+.user-role {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.user-role2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.user-role3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+@media screen and (max-width: 1200px) {
+    .userform {
+        width: 100%;
+        overflow: auto;
+        background-color: saddlebrown;
+        display: flex;
+        flex-direction: column;
+    }
+    .form-detailes {
+        width: auto;
+    }
+}
+
+.editform {
+    display: grid;
+}
+
+.leftform {
+    border: 2 solid;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.rightform {
+    grid-column: 3;
+    grid-row: 1;
+}

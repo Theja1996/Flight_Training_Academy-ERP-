@@ -1,0 +1,25 @@
+.main {
+    display: grid;
+}
+
+.header-logo {
+    grid-row: 1;
+    display: flex;
+    justify-content: space-around;
+}
+
+.loginform {
+    grid-row: 2;
+    width: 60%;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.Empty {
+    grid-row: 3;
+}
+
+.logo2 {
+    width: 200px;
+    height: 30px;
+}

@@ -1,0 +1,11 @@
+.registerform {
+    width: 50%;
+    height: 80%;
+    padding-top: 10%;
+    margin-top: 50;
+}
+
+.formcontant {
+    display: flex;
+    justify-content: center;
+}

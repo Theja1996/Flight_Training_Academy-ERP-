@@ -1,0 +1,120 @@
+.header-head {
+    display: grid;
+    gap: 20px;
+}
+
+.left {
+    grid-row: 1;
+    grid-column: 1/2;
+}
+
+.center {
+    display: flex;
+    justify-content: space-between;
+    grid-row: 1;
+    grid-column: 2/3;
+}
+
+.right {
+    grid-row: 1;
+    grid-column: 3/4;
+}
+
+.center-contant {
+    display: flex;
+    gap: 5px;
+}
+
+.table1 {
+    display: grid;
+    grid-row: 2;
+    grid-column: 2/3;
+}
+
+.table2 {
+    grid-row: 3;
+    grid-column: 2/3;
+}
+
+.table3 {
+    grid-row: 4;
+    grid-column: 2/3;
+}
+
+.table4 {
+    grid-row: 5;
+    grid-column: 2/3;
+}
+
+.table {
+    grid-row: 2;
+    margin-bottom: 15px;
+    background-color: transparent;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.fl-table .date-cell {
+    width: 100px;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #444;
+    text-align: left;
+    border: 1px #ddd solid;
+    border-top: 1px #bbb solid;
+    padding: 7px 7px;
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+}
+
+.fl-table .team-cell {
+    width: 180px;
+}
+
+.fl-table .theory-lecture-subject-cell {
+    width: 200px;
+}
+
+.fl-table .duration-cell {
+    width: 130px;
+}
+
+.fl-table .small-instructor-cell {
+    width: 100px;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+tr.odd td {
+    background: #fff;
+    border-bottom: 1px #bbd5ed solid;
+}
+
+tr.even td {
+    background: #ecf6fc;
+    border-bottom: 1px #bbd5ed solid;
+}
+
+td,
+th {
+    padding: 7px 7px;
+    border: 1px #ccc solid;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
